@@ -5,5 +5,5 @@
 
 ## RK3399
 
-* [AP6255 File Location](rk3399/untitled.md)
+* [AP6255 File Location](rk3399/ap6255_file_location.md)
 
